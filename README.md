@@ -1,2 +1,3 @@
-# strelka-ai1
-Landing published by Deploy Service
+# StrelkaAi
+
+Published by Deploy Service.
